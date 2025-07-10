@@ -1,4 +1,7 @@
 import { BrowserRouter, Route } from "react-router";
+import { MainLayout } from "./MainLayout.jsx";
+import { BoardList } from "./BoardList.jsx";
+import { BoardApp } from "./BoardApp.jsx";
 
 function App() {
   return (
